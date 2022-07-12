@@ -1,0 +1,15 @@
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\bin\Debug\net6.0\Task_36.exe
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\bin\Debug\net6.0\Task_36.deps.json
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\bin\Debug\net6.0\Task_36.runtimeconfig.json
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\bin\Debug\net6.0\Task_36.dll
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\bin\Debug\net6.0\Task_36.pdb
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.csproj.AssemblyReference.cache
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.AssemblyInfoInputs.cache
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.AssemblyInfo.cs
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.csproj.CoreCompileInputs.cache
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.dll
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\refint\Task_36.dll
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.pdb
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\Task_36.genruntimeconfig.cache
+C:\Users\TRON\Desktop\CS_seminar_5\Task_36\obj\Debug\net6.0\ref\Task_36.dll
